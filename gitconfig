@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luiza.c.sanches@gmail.com
+	name = luiza sanches
